@@ -1,3 +1,4 @@
 chat
 chevre
 chien
+rat
